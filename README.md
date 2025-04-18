@@ -1,1 +1,1 @@
-# Challenge_Data-Science_Alura_Store.1-
+# 📊 Challenge Data Science - Análise de Dados das Lojas (Sr. João)
